@@ -1,6 +1,6 @@
 # CMPS 2200  Recitation 03
 
-**Name (Team Member 1):**_________________________  
+**Name (Team Member 1):**______Gavin Galusha___________________  
 **Name (Team Member 2):**_________________________
 
 
